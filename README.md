@@ -1,11 +1,7 @@
-<h1 align="center">Node Modules Belum Selesai</h1>
-
-* Unduh File Bot Lengkap Node Modules [`Click Here`](https://drive.google.com/file/d/19nmr0YaXuKApSEqxw4rZi9kstsPnyTwy/view?usp=drivesdk)
-
 <p align="center">
-    <img src="https://i.ibb.co/S64xkVB/20220126-152502.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/8c0c0d33c6129af67e9c1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Lord Bot</h1>
+<h1 align="center">Kanna BOT</h1>
 
 <a href="https://github.com/Kannachann/kanna-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kannachann/kanna-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Kannachann/kanna-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kannachann/kanna-wabot?label=Watchers&color=green&style=flat-square"></a>
@@ -18,7 +14,7 @@
 
 ## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-Ammar/REST-FREE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
 
 ### Instal Buildpack
 * heroku/nodejs
@@ -45,7 +41,7 @@ Click Run
 ## Whatsapp
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT)
-[![Whatsapp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287708773367/)
+[![Whatsapp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763/)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
@@ -55,8 +51,8 @@ Click Run
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Lord-Ammar/Lord-BotV3
-cd Lord-BotV3
+git clone https://github.com/Kannachann/kanna-wabot/
+cd kanna-wabot
 npm i
 npm update
 node .
@@ -72,8 +68,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
-git clone https://github.com/Lord-Ammar/Lord-BotV3
-cd Lord-BotV3
+git clone https://github.com/Kannachann/kanna-wabot/
 npm install -g npm@6.14.14
 npm start
 ```
@@ -165,9 +160,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) | [![Lord-Ammar](https://github.com/Lord-Ammar.png?size=100)](https://github.com/Lord-Ammar)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann)
 ----|----|----
-
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann) | [Lord-Ammar](https://github.com/Lord-Ammar)
-
- Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang Ke-3
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann)
+ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2

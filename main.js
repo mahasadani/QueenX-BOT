@@ -47,7 +47,7 @@ global.DATABASE = global.db // Backwards Compatibility
 
 global.conn = new WAConnection()
 conn.version =[2,2143,3]
-conn.browserDescription =['Lord BOTV3', 'Firefox', '3.0']
+conn.browserDescription =['QueenX-BOT', 'Firefox', '3.0']
 let authFile = `${opts._[0] || 'session'}.data.json`
 if (fs.existsSync(authFile)) conn.loadAuthInfo(authFile)
 if (opts['trace']) conn.logger.level = 'trace'

@@ -426,7 +426,7 @@ module.exports = {
           if (!('delete' in chat)) chat.delete = false
           if (!('antiBadword' in chat)) chat.antiBadword = true
           if (!('rpg' in chat)) chat.delete = true
-          if (!('nsfw' in chat)) chat.delete = true
+          if (!('nsfw' in chat)) chat.delete = false
           if (!('antiLink' in chat)) chat.antiLink = false
           if (!('viewonce' in chat)) chat.viewonce = true
           if (!('simi' in chat)) chat.sPromote = false
@@ -459,8 +459,8 @@ module.exports = {
           if (!'backup' in settings) settings.backup = true
           if (!isNumber(settings.backupDB)) settings.backupDB = 0
           if (!'groupOnly' in settings) settings.groupOnly = false
-          if (!'jadibot' in settings) settings.groupOnly = false
-          if (!'nsfw' in settings) settings.nsfw = true
+          if (!'jadibot' in settings) settings.groupOnly = true
+          if (!'nsfw' in settings) settings.nsfw = false
           if (!isNumber(settings.status)) settings.status = 0
         } else global.db.data.settings[this.user.jid] = {
           anon: true,
@@ -871,32 +871,32 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
           "title": msg,
           "description": des,
           "footerText": global.botdate,
-          "buttonText": "Kanna BOT",
+          "buttonText": "QueenX-BOT",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
                                 "rows": [{
                                          "title": `MY OWNER`,
-                                         "description": "List Owner Lord BOT",
+                                         "description": "List Owner QueenX-BOT",
                                          "rowId": ".nowner"
                                     }, {
                                          "title": `ABOUT`,
-                                         "description": " Tentang Lord BOT", 
+                                         "description": " Tentang QueenX-BOT", 
                                          "rowId": ".info"
                                     }, {
                                          "title": `LIST MENU`,
-                                         "description": " List Menu Lord BOT",
+                                         "description": " List Menu QueenX-BOT",
                                          "rowId": ".menu"
                                     }, {
                                          "title": `SCRIPT`,
-                                         "description": " Source code Lord BOT",
+                                         "description": " Source code QueenX-BOT",
                                          "rowId": ".sc"
                                          }, {
                                          "title": `GROUP BOT`,
-                                         "description": " List Group Official Kanna BOT",
+                                         "description": " List Group Official QueenX-BOT",
                                          "rowId": ".gcbot"
                        }],
-                    "title": "Created By Fadhil - Ganz ♡"
+                    "title": "Created By Mahasa Dani Dwi Saputra"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
